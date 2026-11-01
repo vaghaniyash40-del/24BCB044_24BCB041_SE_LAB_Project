@@ -1,0 +1,6 @@
+{
+  "name": "Hostel Management System Portal",
+  "description": "Comprehensive digital Hostel Management Portal with real Student, Administrator, and Warden portals, room allocation, out-pass curfew verification, 48h SLA maintenance tracking, mess menu ratings, and fee management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
